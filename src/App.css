@@ -37,7 +37,6 @@
 .card{
   display: flex;
   gap: 25px;
-  /* border: 1px solid; */
   background-color: rgb(232, 243, 252);
   width: 95%;
   margin: auto;
